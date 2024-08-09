@@ -11,3 +11,5 @@ install the requirements
 
 --ensure your cursor is active in the box ti enter the code and scan away
 
+If you run the program with your iPhone connected to your mac, the mac will use your phones camera. Ensure it is unlocked to allow access
+
